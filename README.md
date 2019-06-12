@@ -28,3 +28,9 @@ The project has involved development of code for EDX data analysis in Python, as
 ## Jupyter notebooks
 
 `calculating_self_absorption_plots.ipynb`: Code for creating a plot to visualize self absorption, using absorption coefficiencts from HyperSpy.
+
+`spot_analyzer_demo.ipynb`: Demonstration of how to use the SpotAnalyser class in `uts.py`
+
+`map_analyzer_demo.ipynb`: Demonstration of how to use the MapAnalyser class in `uts.py`
+
+`beam_current_analyzer_demo.ipynb`: Demonstration of how to use the BeamCurrentAnalyzer class in `uts.py`
